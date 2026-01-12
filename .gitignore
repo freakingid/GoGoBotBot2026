@@ -1,0 +1,23 @@
+# Godot 4+ cache/editor state
+.godot/
+
+# Godot 3.x imports (safe to include; ignored if not present)
+.import/
+
+# Export configs/output (optional; keep presets if you want shared export settings)
+.export/
+export.cfg
+
+# Mono / C# (only if you ever enable it)
+.mono/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+
+# IDE settings (optional)
+.vscode/
+.idea/
+
+# Logs
+*.log
